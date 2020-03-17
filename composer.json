@@ -1,0 +1,13 @@
+{
+    "name": "koobitor/php-example",
+    "authors": [
+        {
+            "name": "Sakol Assawasagool",
+            "email": "koobitor@gmail.com"
+        }
+    ],
+    "require": {
+        "catfan/medoo": "^1.7",
+        "vlucas/phpdotenv": "^4.1"
+    }
+}
